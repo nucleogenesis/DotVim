@@ -1,11 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/var/www/html/apothecary-shoppe/api/spec/requests'
-let g:netrw_dirhist_2='/var/www/html/apothecary-shoppe/api/spec'
-let g:netrw_dirhist_3='/var/www/html/apothecary-shoppe/api/spec/models'
-let g:netrw_dirhist_4='/var/www/html/apothecary-shoppe/api/spec/requests'
-let g:netrw_dirhist_5='/var/www/html/apothecary-shoppe/api/spec/requests/batch_lots'
-let g:netrw_dirhist_6='/home/jacob/VimLinks/.git'
-let g:netrw_dirhist_7='/home/jacob/VimLinks/.git/branches'
-let g:netrw_dirhist_8='/home/jacob/VimLinks/.git'
-let g:netrw_dirhist_9='/home/jacob/VimLinks/.git/hooks'
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/home/jacob/VimLinks/.git/hooks'
