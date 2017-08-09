@@ -1,4 +1,5 @@
 autocmd!
+autocmd vimenter * NERDTree
 set nocompatible
 set noshowmode
 
@@ -35,9 +36,14 @@ let mapleader = ","
 "
 " Write Current File
 "
-nnoremap <Leader>s :w<CR>
-inoremap <Leader>s <Esc>:w<CR>a
+nnoremap <Leader>w :w<CR>
+inoremap <Leader>w <Esc>:w<CR>a
 
+"
+" Nerd Tree
+" 
+
+nnoremap <Leader>n :NERDTreeToggle<CR>
 """""""""""""""
 " RAILS STUFF "
 """""""""""""""
