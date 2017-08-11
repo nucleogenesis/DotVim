@@ -1,5 +1,4 @@
 autocmd!
-autocmd vimenter * NERDTree
 set nocompatible
 set noshowmode
 
