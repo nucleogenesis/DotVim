@@ -1,4 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/var/www/html/apothecary-shoppe/api/app/destroyers'
-let g:netrw_dirhist_2='/var/www/html/apothecary-shoppe/api/db/migrate'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/jacob/DotVim/.git'
+let g:netrw_dirhist_2='/home/jacob/DotVim/.vim/bundle/vim-laravel'
+let g:netrw_dirhist_3='/home/jacob/.vim'
